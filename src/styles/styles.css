@@ -1,0 +1,26 @@
+.expense-form-wrapper {
+  width: 100%;
+  padding: 1rem;
+}
+.expense-list-wrapper {
+  width: 100%;
+  padding: 1rem;
+}
+.filter-wrapper {
+  width: 100%;
+  display: flex;
+  gap: 2rem;
+}
+.label {
+  margin-right: 10px;
+}
+.expense-cards-wrapper {
+  display: flex;
+  flex-direction: column;
+  gap: 20px;
+}
+.expense-summary {
+  width: 100%;
+  padding: 1rem;
+  text-align: center;
+}
