@@ -35,7 +35,6 @@ export const ExpenseSummary = () => {
   return (
     <div
       className="expense-summary"
-    //   style={{ margin: "2rem auto", maxWidth: "600px" }}
     >
       <h3>Expense Categories Summary</h3>
       <ResponsiveContainer width="100%" height={400}>
